@@ -157,4 +157,10 @@
       <Name>DC3Scanner</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\login5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\wall.jpg" />
+  </ItemGroup>
 </Project>
