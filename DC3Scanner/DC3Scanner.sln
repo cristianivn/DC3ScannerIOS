@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DC3Scanner.Android", "DC3Sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DC3Scanner.iOS", "DC3Scanner\DC3Scanner.iOS\DC3Scanner.iOS.csproj", "{5B8007A3-10CF-487B-9635-B7F5DFADE19D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DC3Scanner", "DC3Scanner\DC3Scanner\DC3Scanner.csproj", "{E62E52B3-5C40-4FEA-8372-E0901473C45E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DC3Scanner", "DC3Scanner\DC3Scanner\DC3Scanner.csproj", "{E62E52B3-5C40-4FEA-8372-E0901473C45E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D813DE2-A1E5-410D-9676-50BBCA32BC33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

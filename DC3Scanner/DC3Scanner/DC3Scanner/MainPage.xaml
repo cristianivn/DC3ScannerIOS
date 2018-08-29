@@ -17,10 +17,10 @@
 
                 <Image Grid.Row="0" Source="login5.png" WidthRequest="150" HeightRequest="150" Margin="0,30,0,0"/>
                 <StackLayout Grid.Row="1" Padding="30,20">
-                    <Entry Placeholder="Usuario" PlaceholderColor="White"/>
-                    <Entry Placeholder="Password" PlaceholderColor="White" IsPassword="True"/>
-                    <Button Text="Iniciar sesion" TextColor="#7FB3D5" BackgroundColor="White" Margin="0,20,0,0" BorderRadius="20"/>
-
+                    <Entry x:Name="usuariotxt"   Placeholder="Usuario" PlaceholderColor="White"/>
+                    <Entry x:Name="passwordtxt"       Placeholder="Password" PlaceholderColor="White" IsPassword="True"/>
+                    <Button x:Name="btnlogin" Text="Iniciar sesion" TextColor="#7FB3D5" BackgroundColor="White" Margin="0,20,0,0" BorderRadius="20"/>
+                    
 
                 </StackLayout>
             </Grid>
